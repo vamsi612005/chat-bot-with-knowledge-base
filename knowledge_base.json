@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello!"
+    },
+    {
+      "question": "hey there!",
+      "answer": "hi"
+    },
+    {
+      "question": "hey!",
+      "answer": "hello"
+    },
+    {
+      "question": "Omg",
+      "answer": "It's the short-form for 'Oh My God'"
+    }
+  ]
+}
